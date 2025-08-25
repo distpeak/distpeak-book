@@ -1,7 +1,15 @@
 {
-  "name": "distpeak",
-  "description": "distpeak",
+
+  "name": "voicehub-docs",
   "version": "1.0.0",
+  "description": "VoiceHub 智能点歌系统文档",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laoshuikaixue/voicehub-docs.git"
+  },
+  "homepage": "https://voicehub.lao-shui.top",
+  "private": false,
+  "description": "distpeak",
   "license": "AGPL3.0",
   "type": "module",
   "scripts": {
